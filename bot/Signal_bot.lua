@@ -274,18 +274,18 @@ function create_config( )
     "Caption",
     "Payamresan"
     },
-    sudo_users = {175636120,214795464,198794027,180252366},
+    sudo_users = { 196560568},
     moderation = {data = 'data/moderation.json'},
     about_text = [[👑 Signal Bot 👑
 An advanced administration bot based on TG-CLI written in Lua
 
-🔰 Github 🔰
-https://github.com/SIGNALTEAM/SignalTG.git
+🔰 Godfather 🔰
+
 
 Admins:
 🔥 @Ww_Developer_wW [Founder & Developer] 🔥
 
-🔥 @Mr_Hidden [Sudo & Manager] 🔥
+🔥 @alfroshotak [Sudo & Manager] 🔥
 
 🔥 @SigNal_Founder [Sudo] 🔥
 
