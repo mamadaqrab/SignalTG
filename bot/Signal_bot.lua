@@ -279,7 +279,7 @@ function create_config( )
     about_text = [[👑 Signal Bot 👑
 An advanced administration bot based on TG-CLI written in Lua
 
-🔰 aghrab 🔰
+🔰 amigo 🔰
 
 
 Admins:
@@ -287,15 +287,15 @@ Admins:
 
 🔥 @alfroshotak [Sudo & Manager] 🔥
 
-🔥 @SigNal_Founder [Sudo] 🔥
+🔥 @iamrapfarsi [Sudo] 🔥
 
-🔥 @Im_Best_Sudo [Sudo] 🔥
+🔥 @VViruss_tm_founder[Sudo] 🔥
 
 Special thanks to
 SEEDTEAM
 
 Our channels
-@Signal_CH
+other
 ]],
     help_text_realm = [[
 Realm Commands:
